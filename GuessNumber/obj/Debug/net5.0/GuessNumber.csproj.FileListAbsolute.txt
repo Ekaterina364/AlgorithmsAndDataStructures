@@ -1,0 +1,16 @@
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\obj\Debug\net5.0\GuessNumber.csproj.AssemblyReference.cache
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\obj\Debug\net5.0\GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\obj\Debug\net5.0\GuessNumber.AssemblyInfoInputs.cache
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\obj\Debug\net5.0\GuessNumber.AssemblyInfo.cs
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\obj\Debug\net5.0\GuessNumber.csproj.CoreCompileInputs.cache
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\bin\Debug\net5.0\GuessNumber.exe
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\bin\Debug\net5.0\GuessNumber.deps.json
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\bin\Debug\net5.0\GuessNumber.runtimeconfig.json
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\bin\Debug\net5.0\GuessNumber.runtimeconfig.dev.json
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\bin\Debug\net5.0\GuessNumber.dll
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\bin\Debug\net5.0\ref\GuessNumber.dll
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\bin\Debug\net5.0\GuessNumber.pdb
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\obj\Debug\net5.0\GuessNumber.dll
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\obj\Debug\net5.0\ref\GuessNumber.dll
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\obj\Debug\net5.0\GuessNumber.pdb
+D:\PROG\110\algorithmsanddatastructure\AlgorithmsAndDataStuctures\GuessNumber\obj\Debug\net5.0\GuessNumber.genruntimeconfig.cache
